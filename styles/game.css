@@ -1,0 +1,4 @@
+html, body { margin: 0; height: 100%; background: #07050d; overflow: hidden; }
+#game-container { width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; }
+canvas { display: block; outline: none; }
+html, body { touch-action: none; overscroll-behavior: none; -webkit-user-select: none; user-select: none; }
